@@ -287,7 +287,7 @@ cc_underground_xenophile_movement_2:0 "Mouvement xénophile clandestin"
 cc_underground_xenophile_movement_2_desc:0 "Un mouvement clandestin centré autour d'un dissident charismatique est actif sur cette planète. Son but ultime est l'indépendance totale de notre empire."
 
 cc_xenophiles_offended:0 "Xénophiles offensés"
-cc_xenophiles_offended_desc:0 "La population xénophile de la planete est offensée par l'attitude du nouveau régime."
+cc_xenophiles_offended_desc:0 "La population xénophile de la planète est offensée par l'attitude du nouveau régime."
 
 
 cc_building_xenophile_institute:0 "Construire une maison des échanges culturels"
@@ -355,8 +355,8 @@ cc_colony_events.54.desc.pos:0 "Ces 15 dernières années, [cc_colony_leader.Get
 
 #Non-xenophobe variant:
 #see old .542 translation, you should be able to use a lot of that here
-cc_colony_events.540.name:0 "A Foreign Nuisance" 
-cc_colony_events.540.desc:0 "Our ally, the [from.owner.GetName] have been tolerating an outspoken and charismatic xenophobe named [cc_colony_leader.GetName] for decades. [cc_colony_leader.GetSheHeCap] made a name for [cc_colony_leader.GetHimHer]self on [from.GetName] and other [from.owner.GetSpeciesAdj] planets through vicious speeches that publicly derided xenos and named foreign states - in particular, the [root.GetName] - as "Enemies of the People". [cc_colony_leader.GetSheHeCap] recently held a series of particularly hostile speeches, in which [cc_colony_leader.GetSheHe] condemned our people, traditions, and government, and openly called for not only an end to our alliance with the [from.owner.GetName], but that the [from.owner.GetName] should take a hostile stance against us. We have reports of our diplomates and merchants being harassed and assaulted by [cc_colony_leader.GetName]'s xenophobes. Something must be done!" 
+cc_colony_events.540.name:0 "Une Nuisance Étrangère" 
+cc_colony_events.540.desc:0 "Notre allié, le [from.owner.GetName] a dû toléré un véhément et charismatique xénophobe nommé [cc_colony_leader.GetName] pendant des décennies. [cc_colony_leader.GetSheHeCap] s'est fait une réputation [cc_colony_leader.GetHimHer]-même sur [from.GetName] et sur d'autres planètes [from.owner.GetSpeciesAdj] de par des discours malvenants qui ridiculisaient publiquement les xénos et d'autres États étrangers - en particulier, les [root.GetName] - qualifiés comme "Ennemies du Peuple". [cc_colony_leader.GetSheHeCap] a récemment tenu une série de discours haineux, dans lesquels [cc_colony_leader.GetSheHe] condamnait notre peuple, nos traditions, et notre gouvernement, et a ouvertement appelé à non seulement mettre fin à notre alliance avec [from.owner.GetName], mais il a aussi incité [from.owner.GetName] a prendre une posture hostile contre nous. Nous avons rappelé nos diplomates et nos marchands qui ont été harcelés et agressés par les xénophobes de [cc_colony_leader.GetName]. Nous devons agir !" 
 cc_colony_events.540.A:0 "Contact our allies, we can help them... eliminate the problem."
 cc_colony_events.540.B:0 "It isn't worth the risk."
 
@@ -365,8 +365,8 @@ cc_colony_events.540.B:0 "It isn't worth the risk."
 cc_colony_events.54.desc.neg:0 "Ces 15 dernières années, [cc_colony_leader.GetName] fut une figure emblématique sur [Root.GetName]. [cc_colony_leader.GetSheHeCap] a redynamisé la population [root.owner.GetSpeciesAdj], bien qu'[cc_colony_leader.GetSheHe] soit très controversé[cc_colony_leader.GetXELead] auprès des groupes de défense des droits des xénos, entre autres. Récemment, sa rhétorique anti-xéno a dépassé les bornes pour notre allié, le [ally.GetName]. Leur ambassadeur a exprimé leur disposition à nous aider à nous débarrasser de cet[cc_colony_leader.GetXTeLead] agitat[cc_colony_leader.GetEurRiceLead]... tout en indiquant clairement que, à défaut de cela, des insultes supplémentaires visant la [ally.GetName] ne serait pas toléré.\n\nQue devons-nous faire ?"
 cc_colony_events.54.A:0 "[cc_colony_leader.GetName] est un[cc_colony_leader.GetXELead] citoyen[cc_colony_leader.GetXNeLead] [root.owner.GetSpeciesAdj] loyal[cc_colony_leader.GetXELead]."
 cc_colony_events.54.B:0 "Très bien. Qu'on l'élimine."
-cc_colony_events.54.C:0 "We must respect our laws, no matter our opinion of [cc_colony_leader.GetHimHer]."
-cc_colony_events.54.C.tooltip:0 "No action will be taken against [cc_colony_leader.GetName]."
+cc_colony_events.54.C:0 "Nous devons respecter nos lois, peu importe notre opnion sur [cc_colony_leader.GetHimHer]."
+cc_colony_events.54.C.tooltip:0 "Aucune décison ne sera prise contre [cc_colony_leader.GetName]."
 
 cc_colony_events.541.name:0 "Assassinat réussi"
 cc_colony_events.541.desc:0 "L'assassinat de [cc_colony_leader.GetName] fut un succès. Cependant, bien que vous commandos insistent sur le fait que l'opération s'est déroulée comme prévu et qu'aucune preuve n'a été laissée, il semblerait que les partisans de [cc_colony_leader.GetName] aient deviné que le [ally.GetName] était le commanditaire. Des manifestations à travers un certain nombre de mondes exigent la cessation de toutes activité avec la [ally.GetName] et que le gouvernement adopte une attitude plus xénophobe."
@@ -375,16 +375,16 @@ cc_colony_events.541.B:0 "On ne les aimait pas, de toute façon."
 
 cc_colony_events.542.name:0 "Le [from.owner.GetName] adopte une attitude hostile"
 #cc_colony_events.542.desc:0 "Un[cc_colony_leader.GetXELead] orat[cc_colony_leader.GetEurRiceLead] charismatique et extrêmement xénophobique, appelé[cc_colony_leader.GetXELead] [cc_colony_leader.GetName] s'est fait un nom pour [cc_colony_leader.GetHimHer]-même sur [from.GetName] et d'autres planètes [from.owner.GetSpeciesAdj] grâce à des discours vicieux dénigrant les xénos et d'autres empires - plus particulièrement, le [root.GetName] - comme "Ennemis du Peuple". Après une suite de discours particulièrement hostiles, en tant qu'alliés, nous avons discrètement demandé [from.owner.GetAuAlaAlDir] [from.owner.GetRulerTitle] [from.owner.GetSpeciesAdj] de nous laisser nous... occuper du problème. Cependant, incroyable, le [from.owner.GetRulerTitle] [from.owner.GetSpeciesAdj] non seulement a rejeté notre offre, mais à en plus exprimé son soutien pour [cc_colony_leader.GetName]."
-cc_colony_events.542.desc:0 "You put us in a difficult position, [root.GetSpeciesNamePlural]: We must choose between our friends and our citizens. After careful consideration, we have agreed that the primary purpose of the [from.GetName]'s government is to serve the good of the citizens. For that reason, we regret to inform you that we will neither support nor tolerate any moves to forcibly eliminate [cc_colony_leader.GetName]."
+cc_colony_events.542.desc:0 "Vous nous mettez dans une position bien difficile, [root.GetSpeciesNamePlural]: Nous avons à choisir entre nos amis et nos citoyens. Après mûre réflexion, nous avons convenu que le pricipal but du gouvernement de [from.GetName] est de servir le bon intérêt de nos citoyens. Pour cette raison, nous sommes au regret de vous informer que nous ne soutiendrons plus ni ne tolèrerons aucune action visant à l'élimination de [cc_colony_leader.GetName]."
 cc_colony_events.542.option:0 "Nous allons devoir revoir notre opinion d'eux."
 
-cc_colony_events.5421.name:0 "The [from.owner.GetName] refuses to take action"
-cc_colony_events.5421.desc:0 "You put us in a difficult position, [root.GetSpeciesNamePlural]: We must choose between our friends and our citizens. After careful consideration, we have decided that we cannot contemplate taking actions against our citizens that are illegal according to our laws, no matter how much we might abhor their views. For that reason, we regret to inform you that we will neither support nor tolerate any moves to forcibly eliminate [cc_colony_leader.GetName]. We apologise for this."
+cc_colony_events.5421.name:0 "Le [from.owner.GetName] refuse d'agir"
+cc_colony_events.5421.desc:0 "Vous nous mettez dans une position bien difficile, [root.GetSpeciesNamePlural]: Nous avons à choisir entre nos amis et nos citoyens. Après mûre réflexion, nous avons décidé que nous n'accomplirons aucune action à l'encontre de nos citoyens car, comme nos lois les dictent, c'est illégal, peu importe à quel point nous méprisons leurs opinions. Pour cette raison, nous sommes au regret de vous informer que nous ne soutiendrons plus ni ne tolèrerons aucune action visant à l'élimination de [cc_colony_leader.GetName]. Nous en sommes désolés."
 cc_colony_events.5421.option:0 "We may have to reassess our opinion of them."
 
 cc_colony_events.543.name:0 "Eliminer l'agitat[cc_colony_leader.GetEurRiceLead]"
 #cc_colony_events.543.desc:0 "Un[cc_colony_leader.GetXELead] orat[cc_colony_leader.GetEurRiceLead] charismatique et extrêmement xénophobique, appelé[cc_colony_leader.GetXELead] [cc_colony_leader.GetName] s'est fait un nom pour [cc_colony_leader.GetHimHer]-même sur [from.GetName] et d'autres planètes [from.owner.GetSpeciesAdj] grâce à des discours vicieux dénigrant les xénos et d'autres empires - plus particulièrement, le [root.GetName] - comme "Ennemis du Peuple". Après une suite de discours particulièrement hostiles, en tant qu'alliés, nous avons discrètement demandé [from.owner.GetAuAlaAlDir] [from.owner.GetRulerTitle] [from.owner.GetSpeciesAdj] de nous laisser nous... occuper du problème. [from.owner.leader.GetSheHe] a accepté le plan, nous avons donc demandé à leur services de renseignement de travailler avec leurs collègues [from.owner.GetSpeciesAdj] pour préparer la fin de [cc_colony_leader.GetName]."
-cc_colony_events.543.desc:0 "We will gladly work with you to eliminate the troublemaker, "Hegemon" [cc_colony_leader.GetName]! We have instructed our intelligence agency to work with yours to devise a plan to move forwards. Very soon, the threat [cc_colony_leader.GetSheHe] poses will be neutralised."
+cc_colony_events.543.desc:0 "Nous sommes ravis de pouvoir coopérer avec vous pour l'élimination de "Hegemon" [cc_colony_leader.GetName]! Nous avons informer nos services de renseignement qu'il fallait déosrmais qu'ils coopèrent avec vous pour préparer la suite du plan à suivre. Très bientôt, la menace que [cc_colony_leader.GetSheHe] représente, sera neutralisée."
 
 cc_colony_events.544.name:0 "[cc_colony_leader.GetName] éliminé[cc_colony_leader.GetXELead]"
 cc_colony_events.544.desc:0 "Le plan d'élimination de [cc_colony_leader.GetName] fut un succès total - l'acte a été commis, et aucune preuve incriminante pour nous n'a été laissée sur place. Malgré cela, il semblerait que les partisans de [cc_colony_leader.GetName] nous blâment de toute manière - vraisemblablement, quand quelqu'un voit des conspirations xénos partout, il va finir par avoir raison. En tout cas, le [from.owner.GetName] nous couvre, et nous a assuré que rien ne n'entravera l'amitié avec [root.GetName]."
@@ -827,11 +827,11 @@ CC_GOODIGUESS:0 "Bien... Je suppose."
 #Cleanup
 
 cc_cleanup_events.2.name:0 "Gourou influent sur [root.GetName]"
-cc_cleanup_events.2.desc:0 "A prominent guru is active on [root.GetName], and is the focal point of the planet's influential spiritualist network. Should they be allowed to remain in their position?"
+cc_cleanup_events.2.desc:0 "Un gourou influent est présent sur [root.GetName], et il est l'acteur majeur sur l'influence du réseau spirituel de la planète. Faut-il les laisser vaquer à leurs affaires ?"
 
 cc_cleanup_events.3.name:0 "Mausolée d'un gourou célèbre sur [root.GetName]"
-cc_cleanup_events.3.desc:0 "The old owners of [root.GetName] had been building a mausoleum in honour of a prominent guru who was native to the planet. If completed, it will be the centre of the planet's influential spiritualist network. Should we continue building the mausoleum?"
-cc_cleanup_events.3.tooltip:0 "Once completed, the Mausoleum will increase the planet's Unity Output, Happiness and Spiritualist Attraction."
+cc_cleanup_events.3.desc:0 "Les anciens possesseurs de [root.GetName] ont construit un mausolée en l'honneur d'un gourou influent origianire de la planète. S'il est achevé, il sera le centre d'influence du réseau spirituel de la planète. Devons-nous continuer de construire ce mausolée ?"
+cc_cleanup_events.3.tooltip:0 "Une fois achevé, le Mausolée augmentera la production d'Unité, le bonheur et la tendance spiritualiste de la planète."
 
 cc_cleanup_events.4.name:0 "Mausolée d'un gourou célèbre sur [root.GetName]"
 cc_cleanup_events.4.desc:0 "The old owners of [root.GetName] had set up a mausoleum in honour of a prominent guru who was native to the planet. It is the centre of the planet's influential spiritualist network. Should we spare the building from destruction?"
